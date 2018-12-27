@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp6Funda", "CSharp6Funda.csproj", "{A9323DF0-3B4E-4EC8-94B9-7A0E75349CB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImpOperator.TerNull", "ImpOperator.TerNull", "{6F5A2D7D-C99A-4384-8451-C89739D8CFE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpOperator.TerNull", "..\ImpOperator.TerNull\ImpOperator.TerNull.csproj", "{4BF1E33E-8DAA-44B3-B90C-39349D58FC76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9323DF0-3B4E-4EC8-94B9-7A0E75349CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9323DF0-3B4E-4EC8-94B9-7A0E75349CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9323DF0-3B4E-4EC8-94B9-7A0E75349CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9323DF0-3B4E-4EC8-94B9-7A0E75349CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF1E33E-8DAA-44B3-B90C-39349D58FC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF1E33E-8DAA-44B3-B90C-39349D58FC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF1E33E-8DAA-44B3-B90C-39349D58FC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF1E33E-8DAA-44B3-B90C-39349D58FC76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4BF1E33E-8DAA-44B3-B90C-39349D58FC76} = {6F5A2D7D-C99A-4384-8451-C89739D8CFE3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {115FEF92-9A9E-49AF-A0CB-FB302A658073}
+	EndGlobalSection
+EndGlobal
