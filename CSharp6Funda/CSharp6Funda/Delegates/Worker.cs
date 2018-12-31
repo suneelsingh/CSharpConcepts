@@ -28,6 +28,8 @@ namespace Delegates
             //it's going to play it. 
             mediaInventory.TestResult(testRecordDelegate);
             mediaInventory.TestResult(testCassetteDelegate); //similarly instance of delegate holds the TestCassette method. it's gpoing to test it.
+
+            Console.ReadLine();
         }
     }
 }
